@@ -5,7 +5,7 @@
 
 This is a python port of the entirety of
 https://github.com/EconomicSL/distilledESL, further trimmed to its essence.
-It is a plugin to `ABCE<https://github.com/AB-CE/abce>`_;
+It is a plugin to [ABCE](https://github.com/AB-CE/abce);
 `ABCESL` is a reference implementation of Economic
 Simulation Library. I anticipate that the spec for the EconomicSL library will
 be cross-language, just like in the case of a spec of an IETF RFC.
